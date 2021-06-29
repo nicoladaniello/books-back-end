@@ -4,6 +4,9 @@ build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
+db/
+
+.DS_Store
 
 ### Front-end uses it's own repository
 !**/src/main/**/resources/templates/
